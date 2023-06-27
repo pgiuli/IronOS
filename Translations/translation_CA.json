@@ -1,0 +1,317 @@
+{
+    "languageCode": "CA",
+    "languageLocalName": "Català",
+    "tempUnitFahrenheit": false,
+    "messagesWarn": {
+        "CJCCalibrationDone": {
+            "message": "Calibració\nLlesta!"
+        },
+        "ResetOKMessage": {
+            "message": "Reiniciat\nOK"
+        },
+        "SettingsResetMessage": {
+            "message": "Configuració\nReiniciada"
+        },
+        "NoAccelerometerMessage": {
+            "message": "Accelerometre\nno detectat!"
+        },
+        "NoPowerDeliveryMessage": {
+            "message": ""
+        },
+        "LockingKeysString": {
+            "message": ""
+        },
+        "UnlockingKeysString": {
+            "message": ""
+        },
+        "WarningKeysLockedString": {
+            "message": ""
+        },
+        "WarningThermalRunaway": {
+            "message": ""
+        },
+        "SettingsCalibrationWarning": {
+            "message": ""
+        },
+        "CJCCalibrating": {
+            "message": ""
+        },
+        "SettingsResetWarning": {
+            "message": ""
+        },
+        "UVLOWarningString": {
+            "message": ""
+        },
+        "UndervoltageString": {
+            "message": ""
+        },
+        "InputVoltageString": {
+            "message": ""
+        },
+        "SleepingSimpleString": {
+            "message": ""
+        },
+        "SleepingAdvancedString": {
+            "message": ""
+        },
+        "SleepingTipAdvancedString": {
+            "message": ""
+        },
+        "OffString": {
+            "message": ""
+        },
+        "ProfilePreheatString": {
+            "message": ""
+        },
+        "ProfileCooldownString": {
+            "message": ""
+        },
+        "DeviceFailedValidationWarning": {
+            "message": ""
+        },
+        "TooHotToStartProfileWarning": {
+            "message": ""
+        }
+    },
+    "characters": {
+        "SettingRightChar": "D",
+        "SettingLeftChar": "E",
+        "SettingAutoChar": "A",
+        "SettingOffChar": "O",
+        "SettingSlowChar": "L",
+        "SettingMediumChar": "M",
+        "SettingFastChar": "R",
+        "SettingStartNoneChar": "N",
+        "SettingStartSolderingChar": "S",
+        "SettingStartSleepChar": "R",
+        "SettingStartSleepOffChar": "F",
+        "SettingLockDisableChar": "D",
+        "SettingLockBoostChar": "B",
+        "SettingLockFullChar": "F"
+    },
+    "menuGroups": {
+        "PowerMenu": {
+            "displayText": "",
+            "description": ""
+        },
+        "SolderingMenu": {
+            "displayText": "",
+            "description": ""
+        },
+        "PowerSavingMenu": {
+            "displayText": "",
+            "description": ""
+        },
+        "UIMenu": {
+            "displayText": "",
+            "description": ""
+        },
+        "AdvancedMenu": {
+            "displayText": "",
+            "description": ""
+        }
+    },
+    "menuOptions": {
+        "DCInCutoff": {
+            "displayText": "",
+            "description": ""
+        },
+        "MinVolCell": {
+            "displayText": "",
+            "description": ""
+        },
+        "QCMaxVoltage": {
+            "displayText": "",
+            "description": ""
+        },
+        "PDNegTimeout": {
+            "displayText": "",
+            "description": ""
+            
+        },
+        "PDVpdo": {
+            "displayText": "",
+            "description": ""
+        },
+        "BoostTemperature": {
+            "displayText": "",
+            "description": ""
+        },
+        "AutoStart": {
+            "displayText": "",
+            "description": ""
+        },
+        "TempChangeShortStep": {
+            "displayText": "",
+            "description": ""
+        },
+        "TempChangeLongStep": {
+            "displayText": "",
+            "description": ""
+        },
+        "LockingMode": {
+            "displayText": "",
+            "description": ""
+        },
+        "ProfilePhases": {
+            "displayText": "",
+            "description": ""
+        },
+        "ProfilePreheatTemp": {
+            "displayText": "",
+            "description": ""
+        },
+        "ProfilePreheatSpeed": {
+            "displayText": "",
+            "description": ""
+        },
+        "ProfilePhase1Temp": {
+            "displayText": "",
+            "description": ""
+        },
+        "ProfilePhase1Duration": {
+            "displayText": "",
+            "description": ""
+        },
+        "ProfilePhase2Temp": {
+            "displayText": "",
+            "description": ""
+        },
+        "ProfilePhase2Duration": {
+            "displayText": "",
+            "description": ""
+        },
+        "ProfilePhase3Temp": {
+            "displayText": "",
+            "description": ""
+        },
+        "ProfilePhase3Duration": {
+            "displayText": "",
+            "description": ""
+        },
+        "ProfilePhase4Temp": {
+            "displayText": "",
+            "description": ""
+        },
+        "ProfilePhase4Duration": {
+            "displayText": "",
+            "description": ""
+        },
+        "ProfilePhase5Temp": {
+            "displayText": "",
+            "description": ""
+        },
+        "ProfilePhase5Duration": {
+            "displayText": "",
+            "description": ""
+        },
+        "ProfileCooldownSpeed": {
+            "displayText": "",
+            "description": ""
+        },
+        "MotionSensitivity": {
+            "displayText": "",
+            "description": ""
+        },
+        "SleepTemperature": {
+            "displayText": "",
+            "description": ""
+        },
+        "SleepTimeout": {
+            "displayText": "",
+            "description": ""
+        },
+        "ShutdownTimeout": {
+            "displayText": "",
+            "description": ""
+        },
+        "HallEffSensitivity": {
+            "displayText": "",
+            "description": ""
+        },
+        "TemperatureUnit": {
+            "displayText": "",
+            "description": ""
+        },
+        "DisplayRotation": {
+            "displayText": "",
+            "description": ""
+        },
+        "CooldownBlink": {
+            "displayText": "",
+            "description": ""  
+        },
+        "ScrollingSpeed": {
+            "displayText": "",
+            "description": ""
+        },
+        "ReverseButtonTempChange": {
+            "displayText": "",
+            "description": ""
+        },
+        "AnimSpeed": {
+            "displayText": "",
+            "description": ""
+        },
+        "AnimLoop": {
+            "displayText": "",
+            "description": ""
+        },
+        "Brightness": {
+            "displayText": "",
+            "description": ""
+        },
+        "ColourInversion": {
+            "displayText": "",
+            "description": ""
+        },
+        "LOGOTime": {
+            "displayText": "",
+            "description": ""
+        },
+        "AdvancedIdle": {
+            "displayText": "",
+            "description": ""
+        },
+        "AdvancedSoldering": {
+            "displayText": "",
+            "description": ""
+        },
+        "BluetoothLE": {
+            "displayText": "",
+            "description": ""
+        },
+        "PowerLimit": {
+            "displayText": "",
+            "description": ""
+        },
+        "CalibrateCJC": {
+            "displayText": "",
+            "description": ""
+        },
+        "VoltageCalibration": {
+            "displayText": "",
+            "description": ""
+        },
+        "PowerPulsePower": {
+            "displayText": "",
+            "description": ""
+        },
+        "PowerPulseWait": {
+            "displayText": "",
+            "description": ""
+        },
+        "PowerPulseDuration": {
+            "displayText": "",
+            "description": ""
+        },
+        "SettingsReset": {
+            "displayText": "",
+            "description": ""
+        },
+        "LanguageSwitch": {
+            "displayText": "Idioma:\n CA  Català",
+            "description": ""
+        }
+    }
+}
